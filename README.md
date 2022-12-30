@@ -33,6 +33,6 @@ npm create vite@latest reactapp --template react
 - Hooks
 
 ## 🌐 Rodando o projeto
-- Baixar as dependências: npm i react-router-dow
+- Baixar as dependências: npm i react-router-dom
 - diretório: cd app-countdown
 - Executar o projeto: npm run dev
